@@ -11,4 +11,10 @@
 //import "./section/3_partitionAssignment";
 
 // デフォルト値
-import "./section/4_defaultValue";
+//import "./section/4_defaultValue";
+
+// スプレッド構文
+//import "./section/5_spread";
+
+// 配列処理
+import "./section/6_arrayProcessing";
