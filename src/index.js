@@ -17,4 +17,10 @@
 //import "./section/5_spread";
 
 // 配列処理
-import "./section/6_arrayProcessing";
+//import "./section/6_arrayProcessing";
+
+// 3項演算士
+//import "./section/7_ternaryOperator";
+
+// 論理演算子
+import "./section/8_logicalOperator";
